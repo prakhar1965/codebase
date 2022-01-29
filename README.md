@@ -1,2 +1,2 @@
 # codebase
-codebase for solved algorithmic problems with problem link
+codebase for solved algorithmic problems with problem links
